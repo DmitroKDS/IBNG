@@ -49,4 +49,10 @@ This program automates the process of creating a "paint by numbers" style image 
 - **Generate Palette**: The program will analyze the image and display the resulting color palette.
 - **Save or Print**: You can save the generated palette and the simplified image for later use, or print it directly for creating your "paint by numbers" project.
 
+## Images
+
+- **Main page**: <img width="1135" alt="Screenshot 2024-08-25 at 01 10 41" src="https://github.com/user-attachments/assets/bd3081fc-c152-4a6c-8520-699e778198a6">
+- **Color Analysis**: <img width="1135" alt="Screenshot 2024-08-25 at 01 11 11" src="https://github.com/user-attachments/assets/717db82a-5d77-48ea-8d84-984beba6d55c">
+- **Generation page**: <img width="1135" alt="Screenshot 2024-08-25 at 01 11 16" src="https://github.com/user-attachments/assets/fd812d41-35f4-4ffd-ba71-50f49dbd4d4c">
+
 ---
